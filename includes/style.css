@@ -1,0 +1,176 @@
+.font-kanit
+{
+    font-family: 'Kanit', sans-serif;
+}
+.bg-beige
+{
+    background-color:#F5F3C1;
+}
+.text-beige
+{
+    color:#F5F3C1;
+}
+
+.bg-purple
+{
+    background-color: #251b63;
+}
+.text-purple
+{
+    color: #251b63;
+}
+
+.bg-cyan
+{
+    background-color: #0EA293;
+}
+.text-cyan
+{
+    color: #0EA293;
+}
+
+.bg-cyan-dark
+{
+    background-color: #1b6457;
+}
+
+.text-cyan-dark
+{
+    color: #1b6457;
+}
+.colors
+{
+    color: #F5F3C1;
+    color: #1b6457;
+    color: #0EA293;
+    color: #2F0F5D;
+    color: #1d083b;
+
+    color: #2a2069;
+}
+
+
+
+.text-title
+{
+    font-size: 50px;
+}
+
+.divider-dashed
+{
+    border-top: 10px dashed;
+}
+
+.divider
+{
+    border-top: 2px solid;
+}
+
+.underline
+{
+    text-decoration: underline;
+}
+
+
+.video-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25;
+}
+
+.modal-backdrop
+{
+    opacity: 0.9 !important;
+}
+
+
+
+body{
+    margin:0;
+}
+
+.diagonal-lines-purple{
+    background-image: repeating-linear-gradient(-45deg, 
+      #1d083b 10px,
+      #1d083b 12px,
+      transparent 12px,
+      transparent 20px
+      );
+}
+
+.diagonal-lines-orange{
+    background-image: repeating-linear-gradient(-45deg, 
+      #6b2500 10px,
+      #6b2500 12px,
+      transparent 12px,
+      transparent 20px
+      );
+}
+
+.bg-orange
+{
+    background-color: #942200;
+}
+
+
+.rounded-img
+{
+    border-radius: 20px;
+}
+
+.rounded-img-bottom
+{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+
+
+
+
+  .slick-track { display:flex; align-items:center; }
+
+  .diagonal-split-background{
+    background-color: #013A6B;
+    background-image: -webkit-linear-gradient(42deg, #013A6B 50%, #004E95 50%);
+  }
+
+.bg-blue-dark
+{
+    background-color: #013A6B;
+}
+
+.bg-blue
+{
+    background-color: #004E95;
+}
+
+.text-blue
+{
+    color: #004E95;
+}
+
+.iframe-container
+{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.iframe-container iframe
+{
+    position: absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}

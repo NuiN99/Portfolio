@@ -1,0 +1,4 @@
+maybe full contact page
+add smaller projects like 3d modelling in a subsection
+full intro page with links to other sections
+vimeo embed instead of youtube
